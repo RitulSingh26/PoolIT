@@ -1,0 +1,44 @@
+[
+    {
+        "type": "ADDED",
+        "date": "2021-01-07",
+        "holderId": "ABC",
+        "productId": "f71660e7-51a9-4029-b4d0-39d09489d7bc",
+        "description": "ABC added a new Residential Mortgages product named ABC Product 1"
+    },
+    {
+        "type": "ADDED",
+        "date": "2021-01-07",
+        "holderId": "ABC",
+        "productId": "3a86f9e4-1b41-4222-9091-5934d1fc9178",
+        "description": "ABC added a new Residential Mortgages product named ABC Product 2"
+    },
+    {
+        "type": "ADDED",
+        "date": "2021-01-07",
+        "holderId": "ABC",
+        "productId": "37912a9e-dbec-41f8-b4ab-ddcd963f0121",
+        "description": "ABC added a new Residential Mortgages product named Product 3"
+    },
+    {
+        "type": "ADDED",
+        "date": "2021-01-07",
+        "holderId": "ABC",
+        "productId": "3fb9e10c-6560-4471-83bc-c5edf92ebeef",
+        "description": "ABC added a new Residential Mortgages product named ABC Product 4"
+    },
+    {
+        "type": "ADDED",
+        "date": "2021-01-07",
+        "holderId": "ABC",
+        "productId": "3ed59e50-572d-4883-ad0a-2282c786506e",
+        "description": "ABC added a new Residential Mortgages product named Product 5"
+    },
+    {
+        "type": "ADDED",
+        "date": "2021-01-07",
+        "holderId": "ABC",
+        "productId": "544ad5cb-7e52-4a30-b1d7-a080abafbfac",
+        "description": "ABC added a new Residential Mortgages product named ABC Product 6"
+    }
+]

@@ -1,0 +1,54 @@
+header{
+    margin-top: -15px;
+    margin-left:-10px;
+    padding: 0;
+    width: 100%;
+    height: 80px;
+    background: rgb(139, 152, 178);
+  }
+  header nav{
+    width: 1150px;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  header nav .left{
+    color: white;
+  }
+  
+  header nav .right ul{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+  }
+  
+  header nav .right ul li{
+    font-size: 15px;
+    margin-left:5px;
+    margin-right:5px;
+    text-transform: capitalize;
+    color: white;
+    cursor: pointer;
+  
+  }
+  header nav .right ul .button{
+    font-size: 15px;
+   
+    text-transform: capitalize;
+    color: white;
+    cursor: pointer;
+  
+  }
+  
+  
+  header nav .right ul li a{
+    text-decoration: none;
+    color: white;
+  
+  }
+
+  

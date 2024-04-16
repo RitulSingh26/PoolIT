@@ -1,0 +1,45 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.content-box {
+    background-color: #fff;
+    width: 60%;
+    padding: 0px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+    text-align: center;
+    margin-top:120px;
+    margin-bottom: 220px;
+}
+
+.content-box h1 {
+    font-size: 36px;
+    margin-bottom: 50px;
+}
+
+.content-box p {
+    font-size: 18px;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+
+.upload-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #5a6972;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top:30px;
+    transition: background-color 0.3s ease;
+}
+
+.upload-btn:hover {
+    background-color: #3e464b;
+}
